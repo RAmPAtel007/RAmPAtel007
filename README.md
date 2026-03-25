@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=Building%20solutions%2C%20not%20just%20writing%20code.;Backend%20Developer%20%7C%20MERN%20Stack;Turning%20ideas%20into%20real-world%20applications." />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-orange?style=for-the-badge" />
+</p>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building%20solutions%2C%20not%20just%20writing%20code." />
 </p> -->
