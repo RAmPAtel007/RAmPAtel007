@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Building%20solutions%2C%20not%20just%20writing%20code.%22" alt="Typing introduction" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=RAmPAtel007">
     <img src="https://komarev.com/ghpvc/?username=RAmPAtel007&label=Profile%20views&color=00FFFF&style=flat-square" alt="RAmPAtel007's profile views" />
   </a>
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
