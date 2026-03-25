@@ -9,9 +9,11 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building%20solutions%2C%20not%20just%20writing%20code." />
 </p> -->
-<p align="center">
+
+<!-- gif -->
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=Building%20solutions%2C%20not%20just%20writing%20code.;Backend%20Developer%20%7C%20MERN%20Stack;Turning%20ideas%20into%20real-world%20applications." />
-</p>
+</p> -->
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=RAmPAtel007">
     <img src="https://komarev.com/ghpvc/?username=RAmPAtel007&label=Profile%20views&color=00FFFF&style=flat-square" alt="RAmPAtel007's profile views" />
