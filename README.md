@@ -13,27 +13,23 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hi, I'm Ram 👋
-- 🎓 B.Tech CSE Student | Aspiring Software Engineer
-- 💡 I’m a backend-focused developer who enjoys building scalable web applications and solving real-world problems.
-- 🚀 What I do:
-- 🔧 Build REST APIs using Node.js & Express
-- 🌐 Develop full-stack applications using MERN stack
-- 🧠 Practice Data Structures & Algorithms
-- ⚙️ Work on real-world, impactful projects
-- 💻 Tech Stack:
-- 🧾 Languages: C, C++, JavaScript
-- 🖥️ Backend: Node.js, Express.js, REST APIs
-- 🎨 Frontend: React, HTML, CSS
-- 🗄️ Database: MongoDB, MySQL
-- 🛠️ Tools: Git, GitHub, Postman, VS Code
-- 📌 Projects:
-- 🏥 MedMitra – AI-powered multilingual health platform
-- 🛒 TribalMart – E-marketplace for tribal artisans
-- 🌱 Currently:
-- Improving problem-solving & system design skills
-- Preparing for software engineering interviews
-- 🤝 Open to collaboration, internships, and learning opportunities
+
+- Hi, I'm Ram 👋  
+- 🎓 B.Tech CSE Student | Aspiring Software Engineer  
+- 💡 Backend-focused developer building scalable web applications  
+
+### 🚀 What I do:
+- 🔧 Build REST APIs using Node.js & Express  
+- 🌐 Develop full-stack applications (MERN)  
+- 🧠 Practice Data Structures & Algorithms  
+- ⚙️ Work on real-world projects  
+
+### 💻 Tech Stack:
+- 🧾 Languages: C, C++, JavaScript  
+- 🖥️ Backend: Node.js, Express.js  
+- 🎨 Frontend: React, HTML, CSS  
+- 🗄️ Database: MongoDB, MySQL  
+- 🛠️ Tools: Git, Postman, VS Code  
 
 
 ## 🧠 My Focus Areas
