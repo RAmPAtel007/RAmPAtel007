@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ram%20Patel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20MERN%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RAmPAtel007/RAmPAtel007/output/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=Building%20solutions%2C%20not%20just%20writing%20code.;Backend%20Developer%20%7C%20MERN%20Stack;Turning%20ideas%20into%20real-world%20applications." />
 </p>
 
 <!-- <p align="center">
@@ -95,3 +93,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAmPAtel007/RAmPAtel007/output/snake.svg" alt="Snake animation" />
+</p>
