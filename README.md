@@ -1,105 +1,81 @@
-<!-- ════════════════ HEADER ════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Ram%20Patel&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Shipping%20Real-Time%20Products%20to%20Production&descSize=18&descAlignY=52"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ram%20Patel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20MERN%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C8F135&center=true&vCenter=true&width=800&lines=Shipped%2C+not+just+built.;Full-Stack+Developer+%40+Shipcube+LLC;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Firebase;Real-time+systems+%7C+REST+APIs+%7C+PWAs" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-c8f135?style=for-the-badge&labelColor=0c0c0a" />
-  <img src="https://img.shields.io/badge/20%2B-Daily_Users_in_Production-blue?style=for-the-badge&labelColor=0c0c0a" />
-  <img src="https://img.shields.io/badge/Open_to-SDE_Roles_%26_Internships-orange?style=for-the-badge&labelColor=0c0c0a" />
-</p>
-
-<!-- ════════════════ ABOUT ════════════════ -->
-## 🚀 About Me
-
-```typescript
-const ram = {
-  role: "Full-Stack Developer Intern @ Shipcube LLC",
-  education: "B.Tech CSE (2023–27) · CGPA 8.22 · Class Topper sem 4 & 5",
-  shipping: "Clockii — a Slack-style internal OS, live with 20+ daily users",
-  stack: ["Next.js", "TypeScript", "Node.js", "Firebase", "MongoDB", "GCP"],
-  focus: ["Real-time systems", "REST API design", "RBAC & OAuth", "DSA"],
-  funFact: "My code has more users than my Instagram 📈",
-};
-```
-
-- 🔭 **Currently:** building production features at **Shipcube LLC** — real-time chat, FCM push, RBAC across 4 roles
-- 🧠 **Learning:** AI/ML pipelines with **GCP & BigQuery** · system design
-- 🏆 **Wins:** 🥇 Code Relay Winner · SBI Life Hack-AI-Thon Semifinalist (New Delhi) · TCS CodeVita R1 Qualifier
-- ©️ **Copyright filed with Govt. of India** — framework for digital preservation of tribal knowledge
-- 💬 **Ask me about:** Next.js, Firebase, REST APIs, PWAs, shipping side-projects to real users
-
-<!-- ════════════════ PROJECTS ════════════════ -->
-## 🛠️ Featured Builds
-
-| Project | What it does | Stack | Status |
-|---------|-------------|-------|--------|
-| **[Clockii](https://clockii.shipcubeai.com)** 🟢 | Slack-style internal OS — real-time chat, DMs, leave mgmt, docs & directory | Next.js 16 · TS · Firebase · PWA | **LIVE — 20+ daily users** |
-| **MedMitra** 🏥 | Multilingual AI public-health platform over WhatsApp/SMS for rural India | Node.js · Express · MongoDB · Twilio | Backend · 3+ languages |
-| **TribalMart** 🛍️ | E-marketplace for tribal artisans — escrow payments & logistics tracking | MERN · REST | © Govt. of India filed |
-
-<!-- ════════════════ TECH STACK ════════════════ -->
-## ⚡ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,tailwind,firebase,mongodb,mysql,gcp,cpp&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=Building%20solutions%2C%20not%20just%20writing%20code.;Backend%20Developer%20%7C%20MERN%20Stack;Turning%20ideas%20into%20real-world%20applications." />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vite,vercel,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-orange?style=for-the-badge" />
 </p>
-
-<!-- ════════════════ STATS ════════════════ -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RAmPAtel007&show_icons=true&include_all_commits=true&count_private=true&bg_color=0c0c0a&title_color=c8f135&icon_color=c8f135&text_color=eae6dc&border_color=262622&border_radius=10" alt="GitHub Stats" />
-  <img height="170em" src="https://streak-stats.demolab.com/?user=RAmPAtel007&background=0c0c0a&border=262622&stroke=262622&ring=c8f135&fire=c8f135&currStreakNum=eae6dc&sideNums=eae6dc&currStreakLabel=c8f135&sideLabels=8f8c82&dates=5c5a52&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RAmPAtel007&langs_count=8&layout=compact&bg_color=0c0c0a&title_color=c8f135&text_color=eae6dc&border_color=262622&border_radius=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAmPAtel007&bg_color=0c0c0a&color=eae6dc&line=c8f135&point=ffffff&area=true&area_color=c8f135&hide_border=true" width="92%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=RAmPAtel007&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</p>
-
-<!-- ════════════════ CERTS ════════════════ -->
-## 📜 Certifications
-
-![IIT Bombay](https://img.shields.io/badge/IIT_Bombay-Spoken_Tutorial_C++-0c0c0a?style=flat-square&labelColor=c8f135&logoColor=000)
-![NPTEL](https://img.shields.io/badge/NPTEL-DBMS-0c0c0a?style=flat-square&labelColor=c8f135)
-![Anthropic](https://img.shields.io/badge/Anthropic-AI_Fluency-0c0c0a?style=flat-square&labelColor=c8f135)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude_101-0c0c0a?style=flat-square&labelColor=c8f135)
-
-<!-- ════════════════ CONNECT ════════════════ -->
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ram-patel-8a9346285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ram_Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building%20solutions%2C%20not%20just%20writing%20code." />
+</p> -->
+<!-- gif -->
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=Building%20solutions%2C%20not%20just%20writing%20code.;Backend%20Developer%20%7C%20MERN%20Stack;Turning%20ideas%20into%20real-world%20applications." />
+</p> -->
+<!-- <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=RAmPAtel007">
+    <img src="https://komarev.com/ghpvc/?username=RAmPAtel007&label=Profile%20views&color=00FFFF&style=flat-square" alt="RAmPAtel007's profile views" />
   </a>
-  <a href="mailto:codewizard0007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-codewizard0007-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" /> -->
+## 📌 About Me
+- Hi, I'm Ram 👋  
+- 🎓 B.Tech CSE Student | Aspiring Software Engineer  
+- 💡 Backend-focused developer building scalable web applications  
+### 🚀 What I do:
+- 🔧 Build REST APIs using Node.js & Express  
+- 🌐 Develop full-stack applications (MERN)  
+- 🧠 Practice Data Structures & Algorithms  
+- ⚙️ Work on real-world projects  
+### 💻 Tech Stack:
+- 🧾 Languages: C, C++, JavaScript  
+- 🖥️ Backend: Node.js, Express.js  
+- 🎨 Frontend: React, HTML, CSS  
+- 🗄️ Database: MongoDB, MySQL  
+- 🛠️ Tools: Git, Postman, VS Code  
+## 🧠 My Focus Areas
+- Backend Development ⚙️
+- Full-Stack (MERN) 🌐
+- Data Structures & Algorithms 🧠
+- System Design 🏗️
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/RAmPAtel007">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RAmPAtel007&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="RAmPAtel007's GitHub Stats" />
   </a>
-  <a href="https://clockii.shipcubeai.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Project-Clockii-c8f135?style=for-the-badge&labelColor=0c0c0a" />
+  <img src="https://streak-stats.demolab.com/?user=RAmPAtel007&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="RAmPAtel007's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=RAmPAtel007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ram Patel's GitHub Trophies" />
+</p>
+## 🛠️ Languages & Tools
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <a href="https://github.com/RAmPAtel007">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RAmPAtel007&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/ram-patel-8a9346285" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:codewizard0007@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAmPAtel007&label=Profile%20views&color=c8f135&style=flat-square" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
-<!-- ════════════════ SNAKE ════════════════ -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/RAmPAtel007/RAmPAtel007/output/snake.svg" alt="Snake animation" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,29&section=footer"/>
