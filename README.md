@@ -25,22 +25,26 @@
 - Hi, I'm Ram 👋  
 - 🎓 B.Tech CSE Student | Aspiring Software Engineer  
 - 💡 Backend-focused developer building scalable web applications  
+
 ### 🚀 What I do:
 - 🔧 Build REST APIs using Node.js & Express  
 - 🌐 Develop full-stack applications (MERN)  
 - 🧠 Practice Data Structures & Algorithms  
-- ⚙️ Work on real-world projects  
+- ⚙️ Work on real-world projects
+  
 ### 💻 Tech Stack:
 - 🧾 Languages: C, C++, JavaScript  
 - 🖥️ Backend: Node.js, Express.js  
 - 🎨 Frontend: React, HTML, CSS  
 - 🗄️ Database: MongoDB, MySQL  
-- 🛠️ Tools: Git, Postman, VS Code  
+- 🛠️ Tools: Git, Postman, VS Code
+
 ## 🧠 My Focus Areas
 - Backend Development ⚙️
 - Full-Stack (MERN) 🌐
 - Data Structures & Algorithms 🧠
 - System Design 🏗️
+  
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/RAmPAtel007">
