@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="lbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101527"/><stop offset="1" stop-color="#0b0e1a"/>
+    </linearGradient>
+    <linearGradient id="lborder" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7de2ff" stop-opacity="0.5"/><stop offset="0.5" stop-color="#bb9af7" stop-opacity="0.5"/><stop offset="1" stop-color="#ff79c6" stop-opacity="0.5"/>
+    </linearGradient>
+    <clipPath id="barClip"><rect x="40" y="96" width="820" height="26" rx="13"/></clipPath>
+  </defs>
+  <rect x="4" y="4" width="892" height="222" rx="16" fill="url(#lbg)"/>
+  <rect x="4" y="4" width="892" height="222" rx="16" fill="none" stroke="url(#lborder)" stroke-width="1.5"/>
+
+  <text x="40" y="54" font-size="20" font-weight="800" letter-spacing="1" fill="#e6edf3">
+    <tspan fill="#7aa2f7">&#60;/&#62;</tspan>  Most Used Languages
+  </text>
+  <text x="860" y="54" text-anchor="end" font-size="13" fill="#7f88a8" font-weight="500">across public repositories</text>
+
+  <g clip-path="url(#barClip)"><rect x="40.0" y="96" width="331.5" height="26" fill="#f1e05a"/><rect x="370.9" y="96" width="228.6" height="26" fill="#4b8bf5"/><rect x="598.9" y="96" width="114.0" height="26" fill="#c678dd"/><rect x="712.3" y="96" width="71.2" height="26" fill="#6ba7e6"/><rect x="782.9" y="96" width="54.7" height="26" fill="#e8703a"/><rect x="837.0" y="96" width="15.5" height="26" fill="#f34b7d"/><rect x="851.9" y="96" width="8.7" height="26" fill="#9aa5b1"/></g>
+  <rect x="40" y="96" width="820" height="26" rx="13" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+
+  
+    <circle cx="47" cy="164" r="6.5" fill="#f1e05a"/>
+    <text x="60" y="169" font-size="15"><tspan fill="#c0caf5" font-weight="600">JavaScript</tspan><tspan dx="7" fill="#7f88a8" font-weight="500" font-size="13.5">40.3%</tspan></text>
+    <circle cx="252" cy="164" r="6.5" fill="#4b8bf5"/>
+    <text x="265" y="169" font-size="15"><tspan fill="#c0caf5" font-weight="600">TypeScript</tspan><tspan dx="7" fill="#7f88a8" font-weight="500" font-size="13.5">27.8%</tspan></text>
+    <circle cx="457" cy="164" r="6.5" fill="#c678dd"/>
+    <text x="470" y="169" font-size="15"><tspan fill="#c0caf5" font-weight="600">CSS</tspan><tspan dx="7" fill="#7f88a8" font-weight="500" font-size="13.5">13.8%</tspan></text>
+    <circle cx="662" cy="164" r="6.5" fill="#6ba7e6"/>
+    <text x="675" y="169" font-size="15"><tspan fill="#c0caf5" font-weight="600">Python</tspan><tspan dx="7" fill="#7f88a8" font-weight="500" font-size="13.5">8.6%</tspan></text>
+    <circle cx="47" cy="198" r="6.5" fill="#e8703a"/>
+    <text x="60" y="203" font-size="15"><tspan fill="#c0caf5" font-weight="600">HTML</tspan><tspan dx="7" fill="#7f88a8" font-weight="500" font-size="13.5">6.6%</tspan></text>
+    <circle cx="252" cy="198" r="6.5" fill="#f34b7d"/>
+    <text x="265" y="203" font-size="15"><tspan fill="#c0caf5" font-weight="600">C++</tspan><tspan dx="7" fill="#7f88a8" font-weight="500" font-size="13.5">1.8%</tspan></text>
+    <circle cx="457" cy="198" r="6.5" fill="#9aa5b1"/>
+    <text x="470" y="203" font-size="15"><tspan fill="#c0caf5" font-weight="600">C</tspan><tspan dx="7" fill="#7f88a8" font-weight="500" font-size="13.5">1.0%</tspan></text>
+</svg>
